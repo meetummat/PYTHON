@@ -1,0 +1,3 @@
+###### is animal who is son/daughter of ######,
+brother of ######, sister of ######, wife of ######,
+####### of ######.
